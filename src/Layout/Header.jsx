@@ -39,13 +39,13 @@ const Header = ({ isOpen, setIsOpen }) => {
           </li>
         </ul>
 
-
+      
         <ul
-          className='flex gap-7 text-gray-600 items-center flex-shrink-0  cursor-pointer relative'>
-          <li> <TbWindowMinimize size={30} /></li>
-          <li> <CiLight size={30} /></li>
-          <li> <IoIosNotificationsOutline size={30} /> </li>
-          <li> <IoPersonCircleSharp size={30} /></li>
+          className='flex gap-5 text-gray-600 items-center flex-shrink-0  cursor-pointer relative'>
+          <li> <TbWindowMinimize size={24} /></li>
+          <li> <CiLight size={24} /></li>
+          <li> <IoIosNotificationsOutline size={24} /> </li>
+          <li> <IoPersonCircleSharp size={24} /></li>
         </ul>
       </div>
 

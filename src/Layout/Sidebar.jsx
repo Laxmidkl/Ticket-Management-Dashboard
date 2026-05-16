@@ -18,7 +18,7 @@ function Sidebar() {
       icon: <TbSmartHome size={20} />,
       children: [
         {
-           title: "Sales" ,
+           title: "Overview" ,
             path: "/"
           }, 
         {
