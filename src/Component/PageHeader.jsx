@@ -6,7 +6,7 @@ function PageHeader({ title, breadcrumbs }) {
   return (
     <div className="flex justify-between items-center py-3">
       
-      <div className="text-xl font-semibold text-gray-500">
+      <div className="text-[16px] font-semibold text-gray-500">
         {title}
       </div>
 
