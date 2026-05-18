@@ -221,7 +221,6 @@ const OverviewCharts = () => {
       </div>
     </div>
 
-    <div>jhiuhiu</div>
     </>
   );
 };
